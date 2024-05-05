@@ -22,6 +22,10 @@ function generateProjects(jsonData, containerId) {
   // Iterate through each JSON object
   jsonData.forEach(function (item) {
     // Create a new list item element
+    var a = document.createElement("a");
+    var id = item.net_id;
+    a.href = "project.html?id=" + id;
+
     var listItem = document.createElement("li");
 
     // Create an image element
@@ -47,10 +51,11 @@ function generateProjects(jsonData, containerId) {
     listItem.appendChild(document.createElement("br"));
     listItem.appendChild(fullName);
     listItem.appendChild(document.createElement("br"));
+    a.appendChild(listItem);
 
     // Append the list item to the parent container (e.g., ul or ol)
     // Replace 'parentContainer' with the ID or class of your parent container
-    document.getElementById(containerId).appendChild(listItem);
+    document.getElementById(containerId).appendChild(a);
   });
 }
 
