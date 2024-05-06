@@ -19,6 +19,7 @@ function initPage() {
       // Check if the element was found
       if (foundElement) {
         console.log("Element found:", foundElement);
+        document.title = foundElement.full_name;
         document.getElementById("title").textContent =
           foundElement.project_title;
         document.getElementById("name").textContent = foundElement.full_name;
