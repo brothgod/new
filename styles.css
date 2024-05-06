@@ -488,6 +488,7 @@ footer a {
 
 .projects ul {
   list-style-type: none;
+  text-decoration: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -498,32 +499,46 @@ footer a {
   text-decoration: none;
   border: 2px solid #ddd92a;
   /* background-color: #ffeddf; */
-  color: #ddd92a;
+  /* color: #ddd92a; */
   /* color: #ffeddf; */
-  justify-content: center;
-  height: 150px;
+  height: 180px;
   /* width: 80%; */
+  padding: 15px;
 }
 
-.projects li a {
+.projects a li {
+  list-style-type: none;
+  text-decoration: none;
+  color: #ddd92a;
+  border: 2px solid #ddd92a;
+}
+
+.projects a li:hover {
   background-color: #c0fdfb;
   color: #0d1321;
+  border: 2px solid #c0fdfb;
 }
 
-.grad-header {
-  font-family: "Husky Stash", monospace;
-  font-size: 40px;
+#grad-header {
+  /* font-family: "Husky Stash", monospace; */
+  /* font-size: 20px; */
   color: #ffeddf;
   text-align: center;
 }
 
-.grad-header span {
-  /* background-color: #ddd92a; */
+#sen-header {
+  /* font-family: "Husky Stash", monospace; */
+  /* font-size: 20px; */
+  color: #ffeddf;
+  text-align: center;
 }
-/* 
-#gradProjects li {
+
+/* #gradProjects {
   color: #ddd92a;
-  border: 2px solid #ddd92a;
+}
+
+#seniorProjects {
+  color: #fb8b24;
 } */
 
 /* projects formatting end */
