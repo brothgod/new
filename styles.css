@@ -23,6 +23,11 @@ section {
   height: 100vh;
 }
 
+@media (max-height: 650px) {
+  section {
+    height: 650px;
+  }
+}
 /* nav bar start */
 
 ul {
