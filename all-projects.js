@@ -27,29 +27,39 @@ function generateProjects(jsonData, containerId) {
     a.href = "project.html?id=" + id;
 
     var listItem = document.createElement("li");
+    listItem.classList.add("all-li");
 
     // Create an image element
-    var image = document.createElement("img");
-    image.src = "idm.jpg"; // Use the main image from JSON data
-    image.width = "150px";
+    // var image = document.createElement("img");
+    // image.src = "idm.jpg"; // Use the main image from JSON data
+    // image.width = "150px";
 
     // Create div elements for project title, medium, and full name
     var projectTitle = document.createElement("div");
     projectTitle.textContent = item.project_title;
+    projectTitle.classList.add("project-title");
 
     var medium = document.createElement("div");
     medium.textContent = item.medium;
+    medium.classList.add("medium");
 
     var fullName = document.createElement("div");
     fullName.textContent = item.full_name;
+    fullName.classList.add("full-name");
 
     // Append image and div elements to the list item
-    listItem.appendChild(image);
+    // listItem.appendChild(image);
     listItem.appendChild(projectTitle);
-    listItem.appendChild(document.createElement("br"));
+    // listItem.appendChild(document.createElement("br"));
     listItem.appendChild(medium);
+    // listItem.appendChild(document.createElement("br"));
     listItem.appendChild(document.createElement("br"));
     listItem.appendChild(fullName);
+    // listItem.appendChild(medium);
+    // listItem.appendChild(document.createElement("br"));
+    // listItem.appendChild(medium);
+
+    // listItem.appendChild("-" +fullName + "-");
     listItem.appendChild(document.createElement("br"));
     a.appendChild(listItem);
 

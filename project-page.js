@@ -23,9 +23,11 @@ function initPage() {
           foundElement.project_title;
         document.getElementById("name").textContent = foundElement.full_name;
         let year = "";
-        if ((foundElement.year = "Final Year Grad (Thesis Project)"))
+        if (foundElement.year === "Final Year Grad (Thesis Project)") {
           year = "Graduate Thesis";
-        else year = "Senior Thesis";
+        } else {
+          year = "Senior Thesis";
+        }
         document.getElementById("year").textContent = year + " ";
         document.getElementById("medium").textContent = foundElement.medium;
 
@@ -38,13 +40,18 @@ function initPage() {
 
         document.getElementById("description").textContent =
           foundElement.description;
-        document.getElementById("keywords").textContent =
-          "Keywords: " + foundElement.keywords;
+        if (foundElement.keywords !== "")
+          document.getElementById("keywords").textContent =
+            "Keywords: " + foundElement.keywords;
+        else document.getElementById("keywords").remove();
+        // document.getElementById("personal-link").textContent =
+        //   foundElement.portfolio_link;
         document.getElementById("personal-link").textContent =
-          foundElement.portfolio_link;
+          "personal portfolio";
         document.getElementById("personal-link").href =
           foundElement.portfolio_link;
-        document.getElementById("linkedin").textContent = foundElement.linkedin;
+        // document.getElementById("linkedin").textContent = foundElement.linkedin;
+        document.getElementById("linkedin").textContent = "linkedin";
         document.getElementById("linkedin").href = foundElement.linkedin;
       } else {
         console.log("Element not found");
