@@ -17,7 +17,7 @@
     "instagram": "",
     "video_content": "https://youtu.be/9S6Lr2QUh7I",
     "image_path": "main-images\\Abiraahmi_Shankar_main.mov",
-    "supp_path": "supp-images\\Abiraahmi_Shankar_1.png"
+    "supp_path": ["supp-images\\Abiraahmi_Shankar_1.png"]
   },
   {
     "email_address": "ehc370@nyu.edu",
@@ -110,7 +110,8 @@
     "linkedin": "https://www.linkedin.com/in/laura-lachin/",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Laura_Lachin_main.jpg"
+    "image_path": "main-images\\Laura_Lachin_main.jpg",
+    "supp_path": ["supp-images\\Laura_Lachin_1.jpg"]
   },
   {
     "email_address": "ms12453@nyu.edu",
@@ -202,7 +203,11 @@
     "linkedin": "https://www.linkedin.com/in/josh-chen-0ba30524b/",
     "instagram": "https://www.instagram.com/joshervon/",
     "video_content": "",
-    "image_path": "main-images\\Josh_Chen_main.jpg"
+    "image_path": "main-images\\Josh_Chen_main.jpg",
+    "supp_path": [
+      "supp-images\\Josh_Chen_1.jpg",
+      "supp-images\\Josh_Chen_2.jpg"
+    ]
   },
   {
     "email_address": "zt2228@nyu.edu",
@@ -259,7 +264,8 @@
     "linkedin": "",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Don_Cho_main.jpg"
+    "image_path": "main-images\\Don_Cho_main.jpg",
+    "supp_path": ["supp-images\\Don_Cho_1.jpg"]
   },
   {
     "email_address": "ks5012@nyu.edu",
@@ -278,7 +284,11 @@
     "linkedin": "www.linkedin.com/in/kaiqingsu",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Kaiqing_Su_main.jpg"
+    "image_path": "main-images\\Kaiqing_Su_main.jpg",
+    "supp_path": [
+      "supp-images\\Kaiqing_Su_1.JPG",
+      "supp-images\\Kaiqing_Su_2.JPG"
+    ]
   },
   {
     "email_address": "sna318@nyu.edu",
@@ -352,7 +362,8 @@
     "linkedin": "https://www.linkedin.com/in/sanamaq/",
     "instagram": "https://www.instagram.com/smaqattack/?hl=en",
     "video_content": "",
-    "image_path": "main-images\\Sana_Maqsood_main.jpg"
+    "image_path": "main-images\\Sana_Maqsood_main.jpg",
+    "supp_path": ["supp-images\\Sana_Maqsood_1.JPG"]
   },
   {
     "email_address": "ar7624@nyu.edu",
@@ -444,7 +455,12 @@
     "linkedin": "https://www.linkedin.com/in/aneesahsaeed",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Aneesah_Saeed_main.jpg"
+    "image_path": "main-images\\Aneesah_Saeed_main.jpg",
+    "supp_path": [
+      "supp-images\\Aneesah_Saeed_1.JPG",
+      "supp-images\\Aneesah_Saeed_2.JPG",
+      "supp-images\\Aneesah_Saeed_3.JPG"
+    ]
   },
   {
     "email_address": "as17229@nyu.edu",
@@ -685,7 +701,12 @@
     "linkedin": "https://www.linkedin.com/in/riola-musoke-lubega/",
     "instagram": "https://www.instagram.com/ri0la/?hl=en",
     "video_content": "",
-    "image_path": "main-images\\Riola_Musoke-Lubega_main.jpg"
+    "image_path": "main-images\\Riola_Musoke-Lubega_main.jpg",
+    "supp_path": [
+      "supp-images\\Riola_Musoke_Lubega_1.jpeg",
+      "supp-images\\Riola_Musoke_Lubega_2.jpeg",
+      "supp-images\\Riola_Musoke_Lubega_3.jpeg"
+    ]
   },
   {
     "email_address": "sm7490@nyu.edu",
@@ -815,7 +836,13 @@
     "linkedin": "https://www.linkedin.com/in/aysabellegalvez/",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Ysabelle_Galvez_main.jpg"
+    "image_path": "main-images\\Ysabelle_Galvez_main.jpg",
+    "supp_path": [
+      "supp-images\\Amelie_Ysabelle_Galvez_1.jpg",
+      "supp-images\\Amelie_Ysabelle_Galvez_2.jpg",
+      "supp-images\\Amelie_Ysabelle_Galvez_3.jpg",
+      "supp-images\\Amelie_Ysabelle_Galvez_4.jpg"
+    ]
   },
   {
     "email_address": "ams9396@nyu.edu",
@@ -890,7 +917,12 @@
     "linkedin": "",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Alison_Chang_main.jpg"
+    "image_path": "main-images\\Alison_Chang_main.jpg",
+    "supp_path": [
+      "supp-images\\Alison_Chang_1.png",
+      "supp-images\\Alison_Chang_2.png",
+      "supp-images\\Alison_Chang_3.png"
+    ]
   },
   {
     "email_address": "fms327@nyu.edu",
@@ -957,14 +989,22 @@
     "info": "",
     "portfolio_link": "https://sudazyh.com/",
     "project_link": "https://sudazyh.com/idm_senior_project.html",
-    "description": "Video Letter '' is a compilation of improvised video letters journaling from March to April 2024, with the method of surrealist automatism. Inspired by \"Video Letter (1983)\" by Sh\u016bji Terayama and Jonas Mekas's diary films, it uses found footage, original photos&videos, and found sound. Emphasizing spontaneity over detailed plans, it experiments with photography's excitement through embracing the randomness and dailiness of life. It's also an experimentation of self-expression through moving images, echoing the nature of poetic imagery.",
+    "description": "Video Letters is a compilation of improvised video letters journaling from March to April 2024, with the method of surrealist automatism. Inspired by \"Video Letter (1983)\" by Sh\u016bji Terayama and Jonas Mekas's diary films, it uses found footage, original photos&videos, and found sound. Emphasizing spontaneity over detailed plans, it experiments with photography's excitement through embracing the randomness and dailiness of life. It's also an experimentation of self-expression through moving images, echoing the nature of poetic imagery.",
     "main_image": "https://drive.google.com/open?id=13V7Gm_3UOZh6SMDjTMj_dLWTAC6nMZUx",
     "supp_image": "https://drive.google.com/open?id=1yYksOr43_qveiHIzakeQQYKhAkrh0W1A, https://drive.google.com/open?id=1jMtpJMtkMgHjA4nTJjlJZx7AHYLZW2Xv, https://drive.google.com/open?id=1xjPvrG6lHwem_d01bnzXvnyEEsS-IPqO, https://drive.google.com/open?id=1lN_v4_V-dtfgbSoRBQVvPhoek3qd1q5P, https://drive.google.com/open?id=1Yk9kJjT0bBQoUA29qahGn1MENuRu2yY-, https://drive.google.com/open?id=1fsGum624-xLSllSPw7E9j3wy9KzkUxjR, https://drive.google.com/open?id=1serLR_C8ZKrZLzxfsYr8MDrgbIdlf-eU, https://drive.google.com/open?id=1qkGO6zOV_9Axdxniu53MFVTbLIKemusb",
     "keywords": "Video Art, Surrealist automatism, Experimentation, Cinema, Dailiness, Self-expression",
     "linkedin": "https://www.linkedin.com/in/suda-zhao-753a0121b/",
     "instagram": "",
     "video_content": "https://www.youtube.com/channel/UC3PoQGuBA0tujlevbKyAJIQ",
-    "image_path": "main-images\\Suda_Yuanhao_Zhao_main.jpg"
+    "image_path": "main-images\\Suda_Yuanhao_Zhao_main.jpg",
+    "supp_path": [
+      "supp-images\\Suda_Zhao_1.jpg",
+      "supp-images\\Suda_Zhao_2.jpg",
+      "supp-images\\Suda_Zhao_3.jpg",
+      "supp-images\\Suda_Zhao_4.jpg",
+      "supp-images\\Suda_Zhao_5.jpg",
+      "supp-images\\Suda_Zhao_6.jpg"
+    ]
   },
   {
     "email_address": "yc5590@nyu.edu",
@@ -1094,7 +1134,14 @@
     "linkedin": "https://www.linkedin.com/in/sarah-sun-5634b921b/",
     "instagram": "",
     "video_content": "https://youtu.be/dyN9ANnoMk0",
-    "image_path": "main-images\\Sarah_Sun_main.jpg"
+    "image_path": "main-images\\Sarah_Sun_main.jpg",
+    "supp_path": [
+      "supp-images\\Sarah_Sun_1.jpeg",
+      "supp-images\\Sarah_Sun_2.jpeg",
+      "supp-images\\Sarah_Sun_3.jpeg",
+      "supp-images\\Sarah_Sun_4.jpeg",
+      "supp-images\\Sarah_Sun_5.jpeg"
+    ]
   },
   {
     "email_address": "sw5611@nyu.edu",
@@ -1168,7 +1215,16 @@
     "linkedin": "",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Sreya_Sewkaransing_main.jpg"
+    "image_path": "main-images\\Sreya_Sewkaransing_main.jpg",
+    "supp_path": [
+      "supp-images\\Sreya_Sewkaransing_1.jpg",
+      "supp-images\\Sreya_Sewkaransing_2.jpg",
+      "supp-images\\Sreya_Sewkaransing_3.jpg",
+      "supp-images\\Sreya_Sewkaransing_4.jpg",
+      "supp-images\\Sreya_Sewkaransing_5.jpg",
+      "supp-images\\Sreya_Sewkaransing_6.jpg",
+      "supp-images\\Sreya_Sewkaransing_7.jpg"
+    ]
   },
   {
     "email_address": "sy3756@nyu.edu",
@@ -1206,7 +1262,8 @@
     "linkedin": "",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Tina_Chen_main.jpg"
+    "image_path": "main-images\\Tina_Chen_main.jpg",
+    "supp_path": ["supp-images\\Tina_Chen_1.jpg"]
   },
   {
     "email_address": "xh1144@nyu.edu",
@@ -1244,7 +1301,14 @@
     "linkedin": "https://www.linkedin.com/in/shahyeshaa/",
     "instagram": "https://www.instagram.com/yeshhhhhhhha",
     "video_content": "",
-    "image_path": "main-images\\Yesha_Shah_main.jpg"
+    "image_path": "main-images\\Yesha_Shah_main.jpg",
+    "supp_path": [
+      "supp-images\\Yesha_Shah_1.jpg",
+      "supp-images\\Yesha_Shah_2.jpg",
+      "supp-images\\Yesha_Shah_3.jpg",
+      "supp-images\\Yesha_Shah_4.jpg",
+      "supp-images\\Yesha_Shah_5.jpg"
+    ]
   },
   {
     "email_address": "yw3187@nyu.edu",
@@ -1394,7 +1458,16 @@
     "linkedin": "https://www.linkedin.com/in/sarah-c-awad/",
     "instagram": "https://www.instagram.com/movewsarah",
     "video_content": "https://www.youtube.com/@movewsarah",
-    "image_path": "main-images\\Sarah_Awad_main.jpg"
+    "image_path": "main-images\\Sarah_Awad_main.jpg",
+    "supp_path": [
+      "supp-images\\Sarah_Awad_1.jpg",
+      "supp-images\\Sarah_Awad_2.png",
+      "supp-images\\Sarah_Awad_3.jpg",
+      "supp-images\\Sarah_Awad_4.jpg",
+      "supp-images\\Sarah_Awad_5.png",
+      "supp-images\\Sarah_Awad_6.png",
+      "supp-images\\Sarah_Awad_7.png"
+    ]
   },
   {
     "email_address": "lz2807@nyu.edu",
@@ -1462,14 +1535,18 @@
     "info": "My installation involves large, mounted prints of sketches, renderings, and physical garments. I will have three of each. There will be a QR code on the prints where the audience can scan to access my live image targeting site where a video loop of a model will appear displaying the clothing (posing) - this is the AR aspect.",
     "portfolio_link": "https://kaiabakerportfolio.my.canva.site/2",
     "project_link": "https://wp.nyu.edu/tandonschoolofengineering-kaiabakersite/",
-    "description": "Title\" aims to fuse design and cutting-edge technology through Kaia's fashion brand, Quintessential, seamlessly merging mixed reality with traditional fashion experiences. Through this installation, she seeks to convey the essence of \"the process\" as integral to the art itself, highlighting that the journey to creation is just as significant as the final outcome. This narrative not only reflects her personal creative journey but also underscores the project's ethos, inviting viewers to appreciate the transformative journey behind each piece.",
+    "description": "'Title' aims to fuse design and cutting-edge technology through Kaia's fashion brand, Quintessential, seamlessly merging mixed reality with traditional fashion experiences. Through this installation, she seeks to convey the essence of \"the process\" as integral to the art itself, highlighting that the journey to creation is just as significant as the final outcome. This narrative not only reflects her personal creative journey but also underscores the project's ethos, inviting viewers to appreciate the transformative journey behind each piece.",
     "main_image": "https://drive.google.com/open?id=1Cus1MkxrHdAsSTjHNT150LiqwoFi-Bpd",
     "supp_image": "https://drive.google.com/open?id=1byyv0Yp9jwAWrah4PN5hLS18SXacdw4y, https://drive.google.com/open?id=1KMZtTkiC20u5NQD0bFXNrNxZ-aLx2ypK",
     "keywords": "Fashion Design, 3D Rendering, Image Targeting",
     "linkedin": "https://www.linkedin.com/in/kaiabaker/",
     "instagram": "https://www.instagram.com/kaiaelisebaker/",
     "video_content": "",
-    "image_path": "main-images\\Kaia_Elise_Baker_main.jpg"
+    "image_path": "main-images\\Kaia_Elise_Baker_main.jpg",
+    "supp_path": [
+      "supp-images\\Kaia_Baker_1.jpeg",
+      "supp-images\\Kaia_Baker_2.jpeg"
+    ]
   },
   {
     "email_address": "jmh10018@nyu.edu",
@@ -1524,7 +1601,12 @@
     "linkedin": "https://www.linkedin.com/in/megan-kim-6a332b17a/",
     "instagram": "https://www.instagram.com/nutmegan_/",
     "video_content": "",
-    "image_path": "main-images\\Megan_Kim_main.jpg"
+    "image_path": "main-images\\Megan_Kim_main.jpg",
+    "supp_path": [
+      "supp-images\\Megan_Kim_1.jpg",
+      "supp-images\\Megan_Kim_2.jpg",
+      "supp-images\\Megan_Kim_3.jpg"
+    ]
   },
   {
     "email_address": "gss9069@nyu.edu",
@@ -1561,7 +1643,8 @@
     "linkedin": "https://www.linkedin.com/in/amy-tiffany-loo/",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Amy_Tiffany_Loo_main.jpg"
+    "image_path": "main-images\\Amy_Tiffany_Loo_main.jpg",
+    "supp_path": ["supp-images\\Amy_Loo_1.jpg"]
   },
   {
     "email_address": "kz2269@nyu.edu",
@@ -1599,7 +1682,14 @@
     "linkedin": "https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit",
     "instagram": "",
     "video_content": "",
-    "image_path": "main-images\\Arkara_Boonthong_main.jpg"
+    "image_path": "main-images\\Arkara_Boonthong_main.jpg",
+    "supp_path": [
+      "supp-images\\Arkara_Boonthong_1.jpeg",
+      "supp-images\\Arkara_Boonthong_2.jpeg",
+      "supp-images\\Arkara_Boonthong_3.jpeg",
+      "supp-images\\Arkara_Boonthong_4.jpeg",
+      "supp-images\\Arkara_Boonthong_5.jpg"
+    ]
   },
   {
     "email_address": "cz2790@nyu.edu",
@@ -1767,7 +1857,13 @@
     "linkedin": "https://www.linkedin.com/in/meredithbinnette/",
     "instagram": "https://www.instagram.com/meredith_jae/",
     "video_content": "",
-    "image_path": "main-images\\Meredith_Binnette_main.jpg"
+    "image_path": "main-images\\Meredith_Binnette_main.jpg",
+    "supp_path": [
+      "supp-images\\Meredith_Binnette_1.png",
+      "supp-images\\Meredith_Binnette_2.png",
+      "supp-images\\Meredith_Binnette_3.png",
+      "supp-images\\Meredith_Binnette_4.png"
+    ]
   },
   {
     "email_address": "sm10581@nyu.edu",
@@ -1880,7 +1976,8 @@
     "linkedin": "",
     "instagram": "https://www.instagram.com/cyrene212",
     "video_content": "",
-    "image_path": "main-images\\Cyrene_Chen_main.jpg"
+    "image_path": "main-images\\Cyrene_Chen_main.jpg",
+    "supp_path": ["supp-images\\Cyrene_Chen_1.jpg"]
   },
   {
     "email_address": "yz6395@nyu.edu",
@@ -1899,7 +1996,11 @@
     "linkedin": "www.linkedin.com/in/yizhenzhou",
     "instagram": "",
     "video_content": "https://space.bilibili.com/382754437?spm_id_from=333.788.0.0",
-    "image_path": "main-images\\Yizhen_Zhou_main.jpg"
+    "image_path": "main-images\\Yizhen_Zhou_main.jpg",
+    "supp_path": [
+      "supp-images\\Yizhen_Zhou_1.jpg",
+      "supp-images\\Yizhen_Zhou_2.jpg"
+    ]
   },
   {
     "email_address": "ww2157@nyu.edu",
@@ -2047,7 +2148,14 @@
     "linkedin": "https://www.linkedin.com/in/kaiwen-chen-7724b117a/",
     "instagram": "https://www.instagram.com/____kaiii_",
     "video_content": "https://www.youtube.com/channel/UCQHd_8gfByUvsoaeggBx5eg",
-    "image_path": "main-images\\Kaiwen_Chen_main.jpg"
+    "image_path": "main-images\\Kaiwen_Chen_main.jpg",
+    "supp_path": [
+      "supp-images\\Kevin_Chen_1.jpeg",
+      "supp-images\\Kevin_Chen_2.jpeg",
+      "supp-images\\Kevin_Chen_3.jpeg",
+      "supp-images\\Kevin_Chen_4.jpeg",
+      "supp-images\\Kevin_Chen_5.jpeg"
+    ]
   },
   {
     "email_address": "ejn9270@nyu.edu",
@@ -2102,7 +2210,12 @@
     "linkedin": "https://www.linkedin.com/in/bridgeteujindaugherty",
     "instagram": "https://www.instagram.com/bridget.eujin",
     "video_content": "",
-    "image_path": "main-images\\Bridget_Daugherty_main.jpg"
+    "image_path": "main-images\\Bridget_Daugherty_main.jpg",
+    "supp_path": [
+      "supp-images\\Bridget_Daugherty_1.jpg",
+      "supp-images\\Bridget_Daugherty_2.jpg",
+      "supp-images\\Bridget_Daugherty_3.jpg"
+    ]
   },
   {
     "email_address": "aea405@nyu.edu",
@@ -2215,7 +2328,13 @@
     "linkedin": "https://www.linkedin.com/in/howdyjustinballard/",
     "instagram": "https://www.instagram.com/texanthecity",
     "video_content": "",
-    "image_path": "main-images\\Justin_Ballard_main.jpg"
+    "image_path": "main-images\\Justin_Ballard_main.jpg",
+    "supp_path": [
+      "supp-images\\Justin_Ballard_1.png",
+      "supp-images\\Justin_Ballard_2.png",
+      "supp-images\\Justin_Ballard_3.png",
+      "supp-images\\Justin_Ballard_4.png"
+    ]
   },
   {
     "email_address": "ktd283@nyu.edu",
@@ -2328,7 +2447,15 @@
     "linkedin": "",
     "instagram": "https://www.instagram.com/sxr_gemini_tgcf",
     "video_content": "",
-    "image_path": "main-images\\Xinran_Shi_main.jpg"
+    "image_path": "main-images\\Xinran_Shi_main.jpg",
+    "supp_path": [
+      "supp-images\\Xinran_Shi_1.png",
+      "supp-images\\Xinran_Shi_2.png",
+      "supp-images\\Xinran_Shi_3.png",
+      "supp-images\\Xinran_Shi_4.png",
+      "supp-images\\Xinran_Shi_5.png",
+      "supp-images\\Xinran_Shi_6.png"
+    ]
   },
   {
     "email_address": "hp2440@nyu.edu",

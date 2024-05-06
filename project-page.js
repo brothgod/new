@@ -77,9 +77,20 @@ function initPage() {
         if (foundElement.hasOwnProperty("image_path")) {
           mainImg.childNodes[0].src = foundElement.image_path;
         }
+        // var suppImg = document.getElementById("supp-img");
+        // if (foundElement.hasOwnProperty("supp_path")) {
+        //   suppImg.childNodes[0].src = foundElement.supp_path;
+        // }
         var suppImg = document.getElementById("supp-img");
-        if (foundElement.hasOwnProperty("supp_path")) {
-          suppImg.childNodes[0].src = foundElement.supp_path;
+        if (
+          foundElement.hasOwnProperty("supp_path") &&
+          Array.isArray(foundElement.supp_path)
+        ) {
+          foundElement.supp_path.forEach(function (imageSrc, index) {
+            var img = document.createElement("img");
+            img.src = imageSrc;
+            suppImg.appendChild(img);
+          });
         }
       } else {
         console.log("Element not found");
