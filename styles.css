@@ -587,11 +587,9 @@ footer img {
   grid-area: project-right;
 }
 
-#main-img img {
+#main-img img,
+video {
   display: block;
-  /* margin-left: auto; */
-  /* margin-right: auto; */
-  /* margin-bottom: auto; */
   width: 100%;
 }
 

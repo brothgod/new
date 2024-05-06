@@ -75,7 +75,29 @@ function initPage() {
 
         var mainImg = document.getElementById("main-img");
         if (foundElement.hasOwnProperty("image_path")) {
-          mainImg.childNodes[0].src = foundElement.image_path;
+          if (foundElement.image_path.endsWith(".mov")) {
+            var videoContainer = document.createElement("video");
+            videoContainer.setAttribute("controls", "");
+
+            var sourceElement = document.createElement("source");
+            sourceElement.setAttribute(
+              "src",
+              "main-images/Abiraahmi_Shankar_main.mov"
+            );
+            sourceElement.setAttribute("type", "video/mp4");
+
+            var fallbackText = document.createTextNode(
+              "Your browser does not support the video tag."
+            );
+
+            videoContainer.appendChild(sourceElement);
+            videoContainer.appendChild(fallbackText);
+
+            mainImg.appendChild(videoContainer);
+            mainImg.childNodes[0].remove();
+          } else {
+            mainImg.childNodes[0].src = foundElement.image_path;
+          }
         }
         // var suppImg = document.getElementById("supp-img");
         // if (foundElement.hasOwnProperty("supp_path")) {
@@ -93,6 +115,7 @@ function initPage() {
           });
         }
       } else {
+        window.location.href = "/index.html";
         console.log("Element not found");
       }
     })
