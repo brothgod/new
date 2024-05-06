@@ -40,38 +40,50 @@ function initPage() {
 
         document.getElementById("description").textContent =
           foundElement.description;
+
         if (foundElement.keywords !== "")
           document.getElementById("keywords").textContent =
             "Keywords: " + foundElement.keywords;
         else document.getElementById("keywords").remove();
+
         // document.getElementById("personal-link").textContent =
         //   foundElement.portfolio_link;
         document.getElementById("personal-link").textContent =
           "view their portfolio";
         document.getElementById("personal-link").href =
           foundElement.portfolio_link;
+        document.addEventListener("click", function (portfolio_link) {
+          if (
+            portfolio_link.target.tagName == "A" &&
+            !portfolio_link.target.hasAttribute("target")
+          ) {
+            portfolio_link.target.setAttribute("target", "_blank");
+          }
+        });
+
         document.getElementById("linkedin").textContent = foundElement.linkedin;
         // document.getElementById("linkedin").textContent = "linkedin";
         document.getElementById("linkedin").href = foundElement.linkedin;
+        document.addEventListener("click", function (linkedin) {
+          if (
+            linkedin.target.tagName == "A" &&
+            !linkedin.target.hasAttribute("target")
+          ) {
+            linkedin.target.setAttribute("target", "_blank");
+          }
+        });
+
         var mainImg = document.getElementById("main-img");
         if (foundElement.hasOwnProperty("image_path")) {
           mainImg.childNodes[0].src = foundElement.image_path;
+        }
+        var suppImg = document.getElementById("supp-img");
+        if (foundElement.hasOwnProperty("supp_path")) {
+          suppImg.childNodes[0].src = foundElement.supp_path;
         }
       } else {
         console.log("Element not found");
       }
     })
     .catch((error) => console.error("Error loading JSON file:", error));
-
-  // <div id="title">Dance 4 Me!</div>
-
-  // <div id="name">Aditi Gupta</div>
-  // <div id="qualifiers">Graduate Thesis | Installation Art</div>
-  // <a href="iadoro.github.io/danceforme">iadoro.github.io/danceforme
-  //         <div id="description">Based on my family's bakery, this project aims to blend culinary heritage with a modern twist for a new restaurant identity. The project's essence lies in crafting a distinctive brand identity encompassing both the digital and physical realms. The journey involves creating a brand kit that extends beyond screens into the tangible world. This project reflects a personal and professional evolution, transforming a family legacy into a vibrant culinary haven that harmonizes tradition and innovation.
-  //         <div id="keywords">Keywords: Music, Dance, ML</div>
-  //         <div id="personal-link"><a>iadoro.github.io</a></div>
-  //         <div id="linkedin"><a>https://www.linkedin.com/in/adoro/</a>
-  //         <div id="main-img"><img src="idm.jpg" /></div>
-  //         <div id="supp-img"><img src="idm.jpg" /></div>
 }

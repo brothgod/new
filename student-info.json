@@ -16,7 +16,8 @@
     "linkedin": "https://www.linkedin.com/in/abiraahmi/",
     "instagram": "",
     "video_content": "https://youtu.be/9S6Lr2QUh7I",
-    "image_path": "main-images\\Abiraahmi_Shankar_main.mov"
+    "image_path": "main-images\\Abiraahmi_Shankar_main.mov",
+    "supp_path": "supp-images\\Abiraahmi_Shankar_1.png"
   },
   {
     "email_address": "ehc370@nyu.edu",
@@ -34,7 +35,8 @@
     "keywords": "Audiovisual Design, Experience Design, Projection Mapping, Live Performance, Generative Art, Music Production, TouchDesigner",
     "linkedin": "",
     "instagram": "https://www.instagram.com/enyacho/",
-    "video_content": ""
+    "video_content": "",
+    "image_path": "main-images\\Enya_Cho_main.jpg"
   },
   {
     "email_address": "phl302@nyu.edu",
@@ -52,7 +54,8 @@
     "keywords": "Music Production, Video Production, Family, Love",
     "linkedin": "",
     "instagram": "",
-    "video_content": ""
+    "video_content": "",
+    "image_path": "main-images\\Philip_Lee_main.jpg"
   },
   {
     "email_address": "cy2290@nyu.edu, jw7017@nyu.edu, yl7799@nyu.edu",
@@ -217,7 +220,8 @@
     "keywords": "",
     "linkedin": "",
     "instagram": "https://www.instagram.com/nerkaka",
-    "video_content": ""
+    "video_content": "",
+    "image_path": "main-images\\Nertinia_Tang_main.jpg"
   },
   {
     "email_address": "bky214@nyu.edu",
@@ -235,7 +239,8 @@
     "keywords": "Installation, Immersive Experience, Nature-inspired art, Education, Interactive Environment",
     "linkedin": "https://www.linkedin.com/in/phoebe-yin/",
     "instagram": "https://www.instagram.com/_phoebeyin_/",
-    "video_content": ""
+    "video_content": "",
+    "image_path": "main-images\\Phoebe_Yin_main.jpg"
   },
   {
     "email_address": "yc1727@nyu.edu",
@@ -253,7 +258,8 @@
     "keywords": "Interaction design, Anthropocene, Installation Art, Japanese Garden, Audiovisual",
     "linkedin": "",
     "instagram": "",
-    "video_content": ""
+    "video_content": "",
+    "image_path": "main-images\\Don_Cho_main.jpg"
   },
   {
     "email_address": "ks5012@nyu.edu",
@@ -456,7 +462,8 @@
     "keywords": "Climate Change, Artificial Intelligence, Sustainability, User Experience Design, Interactive Storytelling",
     "linkedin": "https://www.linkedin.com/in/anjalishiyamsaran/",
     "instagram": "",
-    "video_content": "https://youtu.be/VpCgbp7CUEc"
+    "video_content": "https://youtu.be/VpCgbp7CUEc",
+    "image_path": "main-images\\Anjali_Shiyamsaran_main.jpg"
   },
   {
     "email_address": "ag7769@nyu.edu",
@@ -492,7 +499,8 @@
     "keywords": "",
     "linkedin": "https://www.linkedin.com/in/jaekim6/",
     "instagram": "",
-    "video_content": ""
+    "video_content": "",
+    "image_path": "main-images\\Arden_Jae_Kim_main.jpg"
   },
   {
     "email_address": "bk1856@nyu.edu",
@@ -565,7 +573,8 @@
     "keywords": "",
     "linkedin": "",
     "instagram": "",
-    "video_content": ""
+    "video_content": "",
+    "image_path": "main-images\\J_Sparer_main.jpg"
   },
   {
     "email_address": "jdh9804@nyu.edu",
@@ -767,7 +776,8 @@
     "keywords": "Accessibility, 3D Printing, Sensory, Anxiety",
     "linkedin": "",
     "instagram": "",
-    "video_content": ""
+    "video_content": "",
+    "image_path": "main-images\\Viviana_Del_Toro_main.jpg"
   },
   {
     "email_address": "xf707@nyu.edu",
@@ -785,7 +795,8 @@
     "keywords": "Product Design, Speculative Design, App",
     "linkedin": "www.linkedin.com/in/helenxfang",
     "instagram": "",
-    "video_content": "https://youtu.be/9MR0mvzghkk?si=a9f98S3qngNF0X9H"
+    "video_content": "https://youtu.be/9MR0mvzghkk?si=a9f98S3qngNF0X9H",
+    "image_path": "main-images\\Helen_Fang_main.jpg"
   },
   {
     "email_address": "ayg3081@nyu.edu",
@@ -928,7 +939,7 @@
     "info": "",
     "portfolio_link": "Mihika.info",
     "project_link": "https://idmmihika.squarespace.com/",
-    "description": "Generative A.I. in Cinema : The Variations of Mickey Mouse\" is an artwork representing A.I.'s place in the film industry. As A.I. becomes more and more prominent, film professionals can wonder how A.I. will effect the film industry and how generated film will compare to human-made film. To address this question, I have created a grid of one of the most iconic human-made film characters: Steamboat Willie, along with multiple A.I. variations of Mickey Mouse. As a professional filmmaker myself, I hope my artwork can inspire and shed some light to other filmmakers on the uses of A.I. technology in cinema.",
+    "description": "Generative A.I. in Cinema: The Variations of Mickey Mouse is an artwork representing A.I.'s place in the film industry. As A.I. becomes more and more prominent, film professionals can wonder how A.I. will effect the film industry and how generated film will compare to human-made film. To address this question, I have created a grid of one of the most iconic human-made film characters: Steamboat Willie, along with multiple A.I. variations of Mickey Mouse. As a professional filmmaker myself, I hope my artwork can inspire and shed some light to other filmmakers on the uses of A.I. technology in cinema.",
     "main_image": "",
     "supp_image": "",
     "keywords": "",
@@ -1568,7 +1579,8 @@
     "keywords": "Visual Programming Language, LLM, GenAI, Interactive Multimedia Content",
     "linkedin": "https://www.linkedin.com/in/kaiyue-zhang-24spring?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
     "instagram": "",
-    "video_content": ""
+    "video_content": "",
+    "image_path": "main-images\\Ziye_Zhang_main.jpg"
   },
   {
     "email_address": "ab8388@nyu.edu",
