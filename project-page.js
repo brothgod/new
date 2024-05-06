@@ -34,7 +34,7 @@ function initPage() {
         let link = document.getElementById("link");
         let linkA = document.createElement("a");
         // linkA.textContent = foundElement.project_link;
-        linkA.textContent = "project link";
+        linkA.textContent = "view project";
         linkA.href = foundElement.project_link;
         link.appendChild(linkA);
 
@@ -47,11 +47,11 @@ function initPage() {
         // document.getElementById("personal-link").textContent =
         //   foundElement.portfolio_link;
         document.getElementById("personal-link").textContent =
-          "personal portfolio";
+          "view their portfolio";
         document.getElementById("personal-link").href =
           foundElement.portfolio_link;
-        // document.getElementById("linkedin").textContent = foundElement.linkedin;
-        document.getElementById("linkedin").textContent = "linkedin";
+        document.getElementById("linkedin").textContent = foundElement.linkedin;
+        // document.getElementById("linkedin").textContent = "linkedin";
         document.getElementById("linkedin").href = foundElement.linkedin;
         var mainImg = document.getElementById("main-img");
         if (foundElement.hasOwnProperty("image_path")) {
