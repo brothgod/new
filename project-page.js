@@ -46,6 +46,10 @@ function initPage() {
           foundElement.portfolio_link;
         document.getElementById("linkedin").textContent = foundElement.linkedin;
         document.getElementById("linkedin").href = foundElement.linkedin;
+        var mainImg = document.getElementById("main-img");
+        if (foundElement.hasOwnProperty("image_path")) {
+          mainImg.childNodes[0].src = foundElement.image_path;
+        }
       } else {
         console.log("Element not found");
       }
